@@ -1,0 +1,40 @@
+{
+  "short_name": "Notes",
+  "name": "Notes Taking",
+  "icons": [
+    {
+      "src": "/fevicon.ico",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "/fevicon.ico",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "/fevicon.ico",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "1.5"
+    },
+    {
+      "src": "/fevicon.ico",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "2.0"
+    },
+    {
+      "src": "/fevicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "3.0"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#006b47",
+  "background_color": "#fff"
+}
